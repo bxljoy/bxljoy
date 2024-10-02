@@ -9,7 +9,7 @@ I'm proficient in both front-end and back-end technologies and always eager to l
 ## 🛠 Skills
 
 - **Languages:** Java, JavaScript/TypeScript, Python
-- **Frontend:** React, React Native, Next.js, Redux, HTML, CSS
+- **Frontend:** React, React Native, Next.js, Redux, Tailwind/Nativewind, HTML, CSS
 - **Backend:** Node.js, Express.js, Spring Boot
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle
 - **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP
