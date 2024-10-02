@@ -22,10 +22,6 @@ I'm proficient in both front-end and back-end technologies and always eager to l
 - **Description:** Language learning app that allows users to take photos, extract text, translate, and practice pronunciation.
 - **App Store:** [InstaLingo](https://apps.apple.com/th/app/instalingo/id6680142408)
 
-### Share Notes
-- **Tech Stack:** Next.js, React, TypeScript, Next-Auth, Tailwind, Radix UI, MongoDB, Mongoose, Prisma, Jest
-- **Description:** A note-sharing application with authentication and database integration.
-
 ## 🌐 Connect with Me
 
 - [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/xiaolei-bao-aa4b7b257))
