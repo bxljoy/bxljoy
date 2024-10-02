@@ -39,7 +39,3 @@ I'm proficient in both front-end and back-end technologies and always eager to l
 
 I'm always staying up to date with the latest industry trends and technologies. 
 Currently exploring AI development tools like GitHub Copilot, ChatGPT, Claude, Cursor, and V0.
-
----
-
-⭐️ From [bxjoy](https://github.com/bxljoy)
