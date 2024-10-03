@@ -2,10 +2,6 @@
 
 Full Stack Developer based in Stockholm, Sweden 🇸🇪
 
-## 🚀 About Me
-
-I'm proficient in both front-end and back-end technologies and always eager to learn and adapt to new challenges.
-
 ## 🛠 Skills
 
 - **Languages:** Java, JavaScript/TypeScript, Python
