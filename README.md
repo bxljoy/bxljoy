@@ -15,7 +15,7 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 
 ### InstaLingo (Mobile App)
 - **Tech Stack:** React Native, Expo, TypeScript, NativeWind, GCP/Firebase, Google Cloud Functions
-- **Description:** Language learning app that allows users to take photos, extract text, translate, and practice pronunciation.
+- **Description:** A mobile app that allows users to take photos, extract text, translate, and practice pronunciation.
 - **App Store:** [InstaLingo](https://apps.apple.com/th/app/instalingo/id6680142408)
 
 ## 🌐 Connect with Me
