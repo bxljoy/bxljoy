@@ -26,8 +26,3 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 ## 📫 How to Reach Me
 
 - Email: bxljoy@gmail.com
-
-## 🌱 I'm Currently Learning
-
-I'm always staying up to date with the latest industry trends and technologies. 
-Currently exploring AI development tools like GitHub Copilot, ChatGPT, Claude, Cursor, and V0.
