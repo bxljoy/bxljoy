@@ -22,7 +22,4 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 
 - [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/xiaolei-bao-aa4b7b257))
 - [Portfolio]([Your Portfolio URL](https://portfilio-alex.vercel.app/))
-
-## 📫 How to Reach Me
-
 - Email: bxljoy@gmail.com
