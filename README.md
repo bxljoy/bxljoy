@@ -14,7 +14,7 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 ## 🌟 Featured Projects
 
 ### InstaLingo (Mobile App)
-- **Tech Stack:** React Native, Expo, TypeScript, NativeWind, GCP/Firebase, Google Cloud Functions
+- **Tech Stack:** React Native, Expo, TypeScript, NativeWind, GCP/Firebase, Google Cloud Functions, Google Gemini-1.5 Model
 - **Description:** A mobile app that allows users to take photos, extract text, translate, and practice pronunciation.
 - **App Store:** [InstaLingo](https://apps.apple.com/th/app/instalingo/id6680142408)
 
