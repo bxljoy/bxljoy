@@ -6,16 +6,16 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 
 - **Languages:** Java, JavaScript/TypeScript, Python
 - **Frontend:** React, React Native, Expo, Next.js, Redux Toolkit, Zustand, Tailwind/Nativewind, HTML, CSS
-- **Backend:** Node.js, Express.js, Spring Boot
+- **Backend:** Node.js, Express.js, Spring Boot, FastAPI
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle
 - **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP
-- **Tools & Others:** Git, Docker, RESTful API, RabbitMQ, Redis, Maven
+- **Tools & Others:** Git, GitHub Action, Docker, RESTful API, RabbitMQ, Redis, Maven
 
 ## 🌟 Featured Projects
 
 ### InstaLingo (Mobile App)
 - **Tech Stack:** React Native, Expo, TypeScript, NativeWind, GCP/Firebase, Google Cloud Functions, Google Gemini-1.5 Model
-- **Description:** A mobile app that allows users to take photos, extract text, translate, and practice pronunciation.
+- **Description:** A mobile app that allows users to take photos, extract text, translate, and practice pronunciation, powered by Google Gemini-1.5 AI.
 - **App Store:** [InstaLingo](https://apps.apple.com/th/app/instalingo/id6680142408)
 
 ## 🌐 Connect with Me
