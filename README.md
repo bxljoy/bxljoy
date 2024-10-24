@@ -9,7 +9,7 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 - **Backend:** Node.js, Express.js, Spring Boot, FastAPI
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle, Sqlite
 - **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP
-- **Tools & Others:** Git, GitHub Action, Docker, RESTful API, RabbitMQ, Redis, Maven
+- **Tools & Others:** Git, GitHub Action, Docker, Kubernetes, Kafka, RESTful API, RabbitMQ, Redis, Maven
 
 ## 🌟 Featured Projects
 
