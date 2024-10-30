@@ -7,9 +7,9 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 - **Languages:** Java, JavaScript/TypeScript, Python
 - **Frontend:** React, React Native, Expo, Next.js, Redux Toolkit, Zustand, Tailwind/Nativewind, HTML, CSS
 - **Backend:** Node.js, Express.js, Spring Boot, FastAPI
-- **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle, Sqlite
-- **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP
-- **Tools & Others:** Git, GitHub Action, Docker, Kubernetes, Kafka, RESTful API, RabbitMQ, Redis, Maven
+- **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle, Sqlite, Firestore
+- **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP, GKE, GCR, Google Cloud Run
+- **Tools & Others:** Git, GitHub Action, Docker, Kubernetes, Kafka, RESTful API, RabbitMQ, Redis, Maven, Terrform
 
 ## 🌟 Featured Projects
 
