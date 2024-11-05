@@ -9,7 +9,7 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 - **Backend:** Node.js, Express.js, Spring Boot, FastAPI
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle, Sqlite, Firestore
 - **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP, GKE, GCR, Google Cloud Run
-- **Tools & Others:** Git, GitHub Action, Docker, Kubernetes, Kafka, RESTful API, RabbitMQ, Redis, Maven, Terrform, Hibernate search, Lucene
+- **Tools & Others:** Git, GitHub Action, Docker, Kubernetes, Kafka, RESTful API, GraphQL, RabbitMQ, Redis, Maven, Terrform, Hibernate search, Lucene
 
 ## 🌟 Featured Projects
 
