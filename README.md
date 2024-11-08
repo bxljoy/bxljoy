@@ -24,4 +24,4 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 - [Portfolio]([Your Portfolio URL](https://portfilio-alex.vercel.app/))
 - Email: bxljoy@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/bxljoy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxljoy&layout=donut-vertical)](https://github.com/bxljoy)
