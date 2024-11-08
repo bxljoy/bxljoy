@@ -23,3 +23,5 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 - [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/xiaolei-bao-aa4b7b257))
 - [Portfolio]([Your Portfolio URL](https://portfilio-alex.vercel.app/))
 - Email: bxljoy@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
