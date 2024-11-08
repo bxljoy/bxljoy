@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xiaolei Bao (Alex)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxljoy&layout=compact)
-Full Stack Developer based in Stockholm, Sweden 🇸🇪  
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxljoy&layout=compact)
+- Full Stack Developer based in Stockholm, Sweden 🇸🇪  
 ## 🛠 Skills
 
 - **Languages:** Java, JavaScript/TypeScript, Python
