@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xiaolei Bao (Alex)
 
-Full Stack Developer based in Stockholm, Sweden 🇸🇪
+Full Stack Developer based in Stockholm, Sweden 🇸🇪  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxljoy&layout=donut-vertical)](https://github.com/bxljoy)
 
 ## 🛠 Skills
 
@@ -23,5 +23,3 @@ Full Stack Developer based in Stockholm, Sweden 🇸🇪
 - [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/xiaolei-bao-aa4b7b257))
 - [Portfolio]([Your Portfolio URL](https://portfilio-alex.vercel.app/))
 - Email: bxljoy@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxljoy&layout=donut-vertical)](https://github.com/bxljoy)
