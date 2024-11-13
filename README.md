@@ -7,7 +7,7 @@
 - **Frontend:** React, React Native, Expo, Next.js, Redux Toolkit, Zustand, Tailwind/Nativewind, HTML, CSS
 - **Backend:** Node.js, Express.js, Spring Boot, FastAPI
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle, Sqlite, Firestore
-- **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP, GKE, Google Cloud Run, Cloud SQL
+- **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP, GKE, GCE, Google Cloud Run, Cloud SQL
 - **Tools & Others:** Git, GitHub Action, Docker, Kubernetes, Kafka, RESTful API, GraphQL, RabbitMQ, Redis, Maven, Terrform, Hibernate search, Lucene/ElasticSearch
 
 ## 🌟 Featured Projects
