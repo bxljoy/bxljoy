@@ -13,7 +13,7 @@
 ## 🌟 Featured Projects
 
 ### InstaLingo (Mobile App)
-- **Tech Stack:** React Native, Expo, TypeScript, NativeWind, GCP/Firebase, Google Cloud Functions, Google Gemini-1.5 Model
+- **Tech Stack:** React Native, Expo, TypeScript, NativeWind, GCP/Firebase, Google Cloud Run, Google Gemini-1.5 Model
 - **Description:** A mobile app that allows users to take photos, extract text, translate, and practice pronunciation, analyze images by Google Gemini-1.5 AI.
 - **App Store:** [InstaLingo](https://apps.apple.com/th/app/instalingo/id6680142408)
 
