@@ -3,7 +3,7 @@
 - Full Stack Developer based in Stockholm, Sweden 🇸🇪 , working in Footway Group AB.
 ## 🛠 Skills
 
-- **Languages:** Java, JavaScript/TypeScript, Python
+- **Languages:** Java,  Python, JavaScript/TypeScript
 - **Frontend:** React, React Native, Expo, Next.js, Redux Toolkit, Zustand, Tailwind/Nativewind, HTML, CSS
 - **Backend:** Node.js, Express.js, Spring Boot, FastAPI
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle, Sqlite, Firestore
@@ -11,6 +11,10 @@
 - **Tools & Others:** Git, GitHub Action, GitLab CI, Docker, Kubernetes, Kafka, RESTful API, GraphQL, RabbitMQ, Redis, Maven, Terrform, Hibernate search, Lucene/ElasticSearch, RAG
 
 ## 🌟 Featured Projects
+
+### Database Sync Service
+- **Tech Stack:** Python, Postgresql, Docker, GCP
+- **Description:** A Python service that synchronizes data between production and staging databases and Google Cloud Storage buckets, supporting both local development and Google Cloud Platform (GCP) environments.
 
 ### InstaLingo (Mobile App)
 - **Tech Stack:** React Native, Expo, TypeScript, NativeWind, GCP/Firebase, Google Cloud Run, Google Gemini-1.5 Model
