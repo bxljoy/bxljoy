@@ -16,11 +16,6 @@
 - **Tech Stack:** Python, Postgresql, Docker, GCP
 - **Description:** A Python service that synchronizes data between production and staging databases and Google Cloud Storage buckets, supporting both local development and Google Cloud Platform (GCP) environments.
 
-### InstaLingo (Mobile App)
-- **Tech Stack:** React Native, Expo, TypeScript, NativeWind, GCP/Firebase, Google Cloud Run, Google Gemini-1.5 Model
-- **Description:** A mobile app that allows users to take photos, extract text, translate, and practice pronunciation, analyze images by Google Gemini-1.5 AI.
-- **App Store:** [InstaLingo](https://apps.apple.com/th/app/instalingo/id6680142408)
-
 ## 🌐 Connect with Me
 
 - [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/xiaolei-bao-aa4b7b257))
