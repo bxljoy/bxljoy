@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Xiaolei Bao (Alex)
+# 👋 Hi, I'm Alex Bao
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxljoy&layout=compact)
 - Full Stack Developer based in Stockholm, Sweden 🇸🇪 , working in Footway Group AB.
 ## 🛠 Skills
