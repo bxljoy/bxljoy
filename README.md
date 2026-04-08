@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Alex Bao
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxljoy&layout=compact)
-- Full Stack Developer based in Stockholm, Sweden 🇸🇪 , working in Footway Group AB.
+- Senior Full Stack Developer based in Stockholm, Sweden 🇸🇪 , working in Footway Group AB.
 ## 🛠 Skills
 
-- **Languages:** Java,  Python, JavaScript/TypeScript
+- **Languages:** Java,  Python, TypeScript
 - **Frontend:** React, React Native, Expo, Next.js, Redux Toolkit, Zustand, Tailwind/Nativewind, HTML, CSS
-- **Backend:** Node.js, Express.js, Spring Boot, FastAPI
+- **Backend:** Spring Boot, FastAPI, Node.js, Express.js
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL, Oracle, Sqlite, Firestore
 - **Cloud:** AWS (EC2, Route 53, IAM, Lambda, API Gateway, S3), Firebase/GCP, GKE, GCE, Google Cloud Run, Cloud SQL
 - **Tools & Others:** Git, GitHub Action, GitLab CI, Docker, Kubernetes, Kafka, RESTful API, GraphQL, RabbitMQ, Redis, Maven, Terrform, Hibernate search, Lucene/ElasticSearch, RAG
@@ -19,5 +18,4 @@
 ## 🌐 Connect with Me
 
 - [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/xiaolei-bao-aa4b7b257))
-- [Portfolio]([Your Portfolio URL](https://portfilio-alex.vercel.app/))
 - Email: bxljoy@gmail.com
