@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alex Bao
-- Senior Full Stack Developer based in Stockholm, Sweden 🇸🇪 , working in Footway Group AB.
+- Senior Full Stack Developer based in Stockholm, Sweden 🇸🇪.
 ## 🛠 Skills
 
 - **Languages:** Java,  Python, TypeScript
